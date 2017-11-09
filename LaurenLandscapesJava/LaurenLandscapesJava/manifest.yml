@@ -1,0 +1,4 @@
+applications:
+- host: llljava-${random-word}
+  path: lll.war
+  mem: 512M
