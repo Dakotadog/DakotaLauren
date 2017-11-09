@@ -84,7 +84,7 @@
 			Price: 
 		</h3>
 		
-		<div id="price">75.00</div>
+		<div id="price">750.00</div>
 
   
 
